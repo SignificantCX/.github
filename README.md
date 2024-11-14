@@ -1,2 +1,4 @@
-# Official Github page for SignificantCX
-<p style="color:blue">This text is blue to fit the brand of SignificantCX.</p>
+# SignficantCX Official Github Repository 
+>
+> Significant Success Coonsulting LLC) was founded in 2020 and worked exclusively with ContactDynamix LTD PTY
+> Principal: Joseph Fitzgerald
